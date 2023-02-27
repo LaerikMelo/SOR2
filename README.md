@@ -1,1 +1,1 @@
-# SOR2
+repositório feito para a postagem das atividades de SOR2
